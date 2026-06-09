@@ -4,7 +4,11 @@ Sistema de monitoramento inteligente de missão espacial desenvolvido para a Glo
 
 ## Integrantes
 
-- [Seu Nome Completo] — RM: XXXXXX — Turma: XCCXX
+Filipe Gunther – RM: 571131
+Lucas Pinheiro - RM: 573497
+Guilherme Guimarães - RM: 572957
+
+Turma: 1CCR
 
 ## O que o projeto faz
 
