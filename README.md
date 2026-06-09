@@ -102,6 +102,6 @@ SaaS de dado-como-serviço: assinatura mensal para acesso à plataforma de alert
 
 ## Vídeo de demonstração
 
-[Assistir demonstração no YouTube](https://www.youtube.com/watch?v=SEU_ID_AQUI)
+[Assistir demonstração no YouTube](https://youtu.be/VP6af9qq_o8)
 
 Configurado como "Não listado" no YouTube.
