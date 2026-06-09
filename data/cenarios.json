@@ -1,0 +1,60 @@
+{
+  "cenarios": [
+    {
+      "nome": "Operação normal",
+      "descricao": "Todos os sistemas dentro dos parâmetros esperados.",
+      "dados": {
+        "sensor_termico": 32.5,
+        "sensor_optico": 94.0,
+        "buffer_imagens": 45.0,
+        "precisao_geo": 96.0,
+        "energia_disponivel": 78.0,
+        "focos_detectados": 1,
+        "orbita_numero": 3421,
+        "timestamp": "2026-06-09 14:00:00"
+      }
+    },
+    {
+      "nome": "Incêndio em larga escala",
+      "descricao": "Alto número de focos com sensor térmico acima do normal.",
+      "dados": {
+        "sensor_termico": 67.0,
+        "sensor_optico": 88.0,
+        "buffer_imagens": 62.0,
+        "precisao_geo": 91.0,
+        "energia_disponivel": 55.0,
+        "focos_detectados": 10,
+        "orbita_numero": 3422,
+        "timestamp": "2026-06-09 15:30:00"
+      }
+    },
+    {
+      "nome": "Energia crítica",
+      "descricao": "Painéis solares com falha — energia em nível de emergência.",
+      "dados": {
+        "sensor_termico": 38.0,
+        "sensor_optico": 90.0,
+        "buffer_imagens": 30.0,
+        "precisao_geo": 88.0,
+        "energia_disponivel": 11.0,
+        "focos_detectados": 2,
+        "orbita_numero": 3423,
+        "timestamp": "2026-06-09 16:45:00"
+      }
+    },
+    {
+      "nome": "Falha múltipla de sensores",
+      "descricao": "Sensor óptico degradado + buffer cheio + geolocalização imprecisa.",
+      "dados": {
+        "sensor_termico": 41.0,
+        "sensor_optico": 55.0,
+        "buffer_imagens": 93.0,
+        "precisao_geo": 65.0,
+        "energia_disponivel": 62.0,
+        "focos_detectados": 3,
+        "orbita_numero": 3424,
+        "timestamp": "2026-06-09 18:00:00"
+      }
+    }
+  ]
+}
